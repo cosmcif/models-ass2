@@ -1,0 +1,117 @@
+Task 1 
+Saving model at epoch 49 with val_acc: 0.3663663663663664
+
+Test
+0. Accuracy: 0.25
+1. Accuracy: 0.296875
+2. Accuracy: 0.3020833333333333
+3. Accuracy: 0.2890625
+4. Accuracy: 0.31875
+5. Accuracy: 0.296875
+6. Accuracy: 0.3125
+7. Accuracy: 0.3125
+8. Accuracy: 0.2996389891696751
+
+Average Accuracy = 0.297587203
+----------------------------------------------------------------
+
+Task 2
+Saving model at epoch 14 with val_acc: 0.6246246246246246
+
+Test
+0. Accuracy: 0.59375
+1. Accuracy: 0.609375
+2. Accuracy: 0.5520833333333334
+3. Accuracy: 0.5703125
+4. Accuracy: 0.55625
+5. Accuracy: 0.5416666666666666
+6. Accuracy: 0.5535714285714286
+7. Accuracy: 0.5625
+8. Accuracy: 0.5595667870036101
+
+
+Average Accuracy = 0.566563968
+
+----------------------------------------------------------------
+
+Task 1 v Task 2
+
+T-statistic: -21.969517564109513
+P-value: 1.9451301803230845e-08
+The difference between model 1 and model 2 is statistically relevant.
+
+----------------------------------------------------------------
+
+Task 3 model 1 FIRST RUN
+
+Saving model at epoch 58 with val_acc: 0.8948948948948949
+
+Test
+0. Accuracy: 0.8125
+1. Accuracy: 0.796875
+2. Accuracy: 0.8333333333333334
+3. Accuracy: 0.8359375
+4. Accuracy: 0.8625
+5. Accuracy: 0.8489583333333334
+6. Accuracy: 0.8526785714285714
+7. Accuracy: 0.85546875
+8. Accuracy: 0.851985559566787
+
+Average Accuracy = 0.8389152275180027
+
+
+Task 3 Model 2 FIRST RUN
+Saving model at epoch 5 with val_acc: 0.96996996996997
+
+Test
+0. Accuracy: 0.96875
+1. Accuracy: 0.953125
+2. Accuracy: 0.9479166666666666
+3. Accuracy: 0.9453125
+4. Accuracy: 0.95625
+5. Accuracy: 0.9427083333333334
+6. Accuracy: 0.9464285714285714
+7. Accuracy: 0.9453125
+8. Accuracy: 0.9314079422382672
+
+Average Accuracy = 0.9485790570740931
+
+T-statistic: -11.602673028233815, P-value: 2.769849437979004e-06
+The difference between model 1 and model 2 is statistically relevant.
+
+----------------------------------------------------------------
+
+Task 3 model 1 RERUN
+Saving model at epoch 58 with val_acc: 0.8948948948948949
+
+Test
+0. Accuracy: 0.8125
+1. Accuracy: 0.796875
+2. Accuracy: 0.8333333333333334
+3. Accuracy: 0.8359375
+4. Accuracy: 0.8625
+5. Accuracy: 0.8489583333333334
+6. Accuracy: 0.8526785714285714
+7. Accuracy: 0.85546875
+8. Accuracy: 0.851985559566787
+
+Average Accuracy = 0.8389152275180027
+
+Task 3 Model 2 RERUN
+Saving model at epoch 5 with val_acc: 0.96996996996997
+
+Test
+0. Accuracy: 0.96875
+1. Accuracy: 0.953125
+2. Accuracy: 0.9479166666666666
+3. Accuracy: 0.9453125
+4. Accuracy: 0.95625
+5. Accuracy: 0.9427083333333334
+6. Accuracy: 0.9464285714285714
+7. Accuracy: 0.9453125
+8. Accuracy: 0.9314079422382672
+
+Average Accuracy = 0.9485790570740931
+
+T-statistic: -11.602673028233815, P-value: 2.769849437979004e-06
+The difference between model 1 and model 2 is statistically relevant.
